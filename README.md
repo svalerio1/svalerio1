@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @svalerio1
-- 👀 I’m interested in art, developing, and all things creativity!
-- 🌱 I’m currently learning to improve my skills.
-- 💞️ I’m looking to collaborate on new projects.
-- 📫 How to reach me 14shantivalerio@gmail.com
-- 😄 Pronouns: she/her/ella
+- 👋 Hi, I’m @svalerio1 or Shanti Valerio
+- 👀 I am a current sophomore CS major at Prairie View A@M University. I’m interested in art, developing, and all things creativity!
+- 🌱 I’m currently learning to improve my coding skills by creating atleast one project a week.
 - ⚡ Fun fact: I am Honduran-American and also speak spanish!
 
 <!---
